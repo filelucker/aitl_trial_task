@@ -1,16 +1,14 @@
 # aitl_tril_task
 
-A new Flutter project.
+[Task Instruction](https://github.com/filelucker/aitl_trial_task/blob/main/Trial%20Task%20For%20flutter%20Developer.pdf)
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <a style="text-decoration:none" area-label="home page map">
+   <img src="https://github.com/filelucker/barikoi-mapLibre/assets/25184971/6a1331aa-8b64-4fdd-be8f-623e3263b83f" width="250" height="450" />
+  </a>
+  <a style="text-decoration:none" area-label="neararby banks">
+    <img src="https://github.com/filelucker/barikoi-mapLibre/assets/25184971/86e8a5c1-e64b-4abd-80c8-61055f2dc2c6" width="250" height="450" />
+  </a>
+</p>
